@@ -1,0 +1,4 @@
+consul:
+  scale: 1
+  retain_ip: true
+
